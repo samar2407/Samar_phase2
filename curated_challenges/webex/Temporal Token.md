@@ -10,3 +10,8 @@ We then change our token's exp value to a timestamp which will be valid in the f
 <img width="1920" height="1020" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/63315e58-db6e-48ba-ba1e-309a970122e7" />
 
 # Flag
+Flag: "nite{50_y0u_kn0w_h0w_jw75_w0rk_n0w?}"
+# Resources
+https://portswigger.net/web-security/jwt
+
+https://www.jwt.io/
